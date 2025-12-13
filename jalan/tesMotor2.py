@@ -56,7 +56,7 @@ def set_motor(speed):
 try:
     print("Motor maju 50%")
     set_motor(50)
-    time.sleep(3)
+    time.sleep(30)
 
     print("Motor mundur 50%")
     set_motor(-50)
